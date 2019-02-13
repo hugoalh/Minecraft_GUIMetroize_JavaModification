@@ -1,9 +1,3 @@
-# Minecraft GUI Metroize (Java Modification)
+# Minecraft Java Resource Pack: GUI Metroize - Modification
 
-Metroize the Minecraft (Java Modification) GUI and look more comfortable.
-
-## Branch
-
-- 2
-
-- master (3)
+Metroize the GUI of Minecraft Java Modification and look more comfortable.
