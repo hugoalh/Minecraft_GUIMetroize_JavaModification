@@ -1,6 +1,11 @@
 {
 	"pack": {
-		"pack_format": 3,
-		"description": "Minecraft GUI Metroize (Java Modification), 3-1.21.1"
+		"identity": "hugoalh.minecraft.java.resourcepack.guimetroize-modification",
+		"name": "Minecraft Java Resource Pack: GUI Metroize - Modification",
+		"author": "hugoalh",
+		"version": "2.0.0",
+		"description": "GUI Metroize - Java Modification, 3-2.0.0",
+		"tag": ["hugoalh", "minecraft", "java", "resourcepack", "guimetroize-modification"],
+		"pack_format": 3
 	}
 }
